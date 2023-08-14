@@ -1,2 +1,3 @@
-# Certificates---Courses
+# Certificates - Courses
+
 This repo contains all my certificates.
